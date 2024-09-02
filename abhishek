@@ -1,11 +1,5 @@
-hi
-hi i am abhishekgit statusgit st
-HI mandyagaru
-hi are u git uda
-we can lear n git
-hi i am abhishekgit statusgit st
-hi udaygaru
-abhi
-we are in india
-we are kannadigas
-git stash
+public class HelloJenkins {
+    public static void main(String[] args) {
+        System.out.println("Hello, Jenkins!");
+    }
+}
